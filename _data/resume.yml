@@ -2,12 +2,12 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://placehold.it/126x126"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "sirui Ding"
+  label: "Student"
+  picture: "/assets/img/me.jpg"
+  email: "1053871735@qq.com"
+  phone: "(+86)13545370679"
+  website: "https://davidsirui.github.io/"
   summary: >
     **THIS IS AN EXAMPLE RESUME**.
     Richard hails from Tulsa.
