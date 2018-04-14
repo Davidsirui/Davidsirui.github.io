@@ -13,3 +13,7 @@ accent_image:
   background: '#202020'
   overlay:    false
 ---
+~~~yml
+# file: resume.yml
+url: https://qwtel.com
+~~~
