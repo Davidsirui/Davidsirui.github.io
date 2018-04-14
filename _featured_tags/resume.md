@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Resume
-slug: hyde
+slug: resume
 menu: true
 order: 5
 description: >
